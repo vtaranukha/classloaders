@@ -9,6 +9,8 @@ public class Test {
 
         System.out.println( "f1: " + child.getSomeField1() );
         System.out.println( "f2: " + child.getSomeField2() );
+        ClassLoader
+
     }
 }
 
